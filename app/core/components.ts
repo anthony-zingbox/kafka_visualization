@@ -1,0 +1,1 @@
+require('../components/kafka-visualization/kafka-visualization.ts');
